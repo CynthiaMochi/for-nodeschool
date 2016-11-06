@@ -1,2 +1,2 @@
-# for-nodeschoole
+# for-nodeschool
 solutions for nodeschool courses
